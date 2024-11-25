@@ -1,0 +1,12 @@
+LICENSE.txt
+README.md
+setup.py
+kill_this_port/__init__.py
+kill_this_port/core.py
+kill_this_port/helpers.py
+kill_this_port/post_install.py
+kill_this_port.egg-info/PKG-INFO
+kill_this_port.egg-info/SOURCES.txt
+kill_this_port.egg-info/dependency_links.txt
+kill_this_port.egg-info/entry_points.txt
+kill_this_port.egg-info/top_level.txt

@@ -1,0 +1,3 @@
+[console_scripts]
+checkport = kill_this_port.core:check_main
+killport = kill_this_port.core:main
